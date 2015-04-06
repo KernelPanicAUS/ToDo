@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  ToDoItem.m
 //  ToDoList
 //
 //  Created by Thomas Khalil on 6/04/2015.
 //  Copyright (c) 2015 Thomas Khalil. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "ToDoItem.h"
 
-@interface ViewController : UIViewController
-
+@implementation ToDoItem
 
 @end
-
